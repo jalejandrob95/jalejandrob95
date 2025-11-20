@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jalejandrob95
 - 👀 I’m interested in Backend and Frontend developer
-- 🌱 I’m currently learning javascript, nodejs and express
+- 🌱 I’m currently learning javascript, nodejs, express and python
 
 <!---
 jalejandrob95/jalejandrob95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
